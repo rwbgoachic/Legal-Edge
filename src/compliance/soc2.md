@@ -3,6 +3,9 @@
 ## Overview
 This document outlines our legal compliance measures for SOC 2 certification.
 
+### Purpose
+- IOLTA compliance layer for legal trust accounting
+
 ### Security Controls
 1. Access Management
    - Role-based access control (RBAC)
